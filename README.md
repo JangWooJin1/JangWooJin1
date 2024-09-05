@@ -1,6 +1,6 @@
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&text=Hi,%20I'm%20JangWooJin,%20a%20passionate%20Backend%20Developer&fontAlignY=30)
+
+<img src="https://github.com/user-attachments/assets/cb4c7013-c2bc-4008-b5d5-c1c25d829b66" alt="image" width="600" height="150">
 
 ### 🚀 Main Tech Stack 🚀
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
