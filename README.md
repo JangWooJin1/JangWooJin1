@@ -34,13 +34,13 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 </div>
 <br><br>
 
-## 📚 Experience
+### 📚 Experience
 - 
 
 
 <br><br>
 
-## 🐸 IAM
+### 🐸 IAM
 - MBTI: ESTJ
 - Major: Computer science
 - Hobby: Golf
@@ -49,12 +49,12 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 
 <br><br>
 
-## 🧑‍🤝‍🧑 I want to collaborate with people like this ...
+### 🧑‍🤝‍🧑 I want to collaborate with people like this ...
 - 
 
 <br><br>
 
-# ✉️ 연락 방법
+### ✉️ 연락 방법
 [![Gmail Badge](https://img.shields.io/badge/-jangwoojin1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangwoojin1@gmail.com)](mailto:jangwoojin1@gmail.com)
 
 
