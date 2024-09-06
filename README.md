@@ -56,9 +56,3 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 
 ### ✉️ 연락 방법
 [![Gmail Badge](https://img.shields.io/badge/-jangwoojin1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangwoojin1@gmail.com)](mailto:jangwoojin1@gmail.com)
-
-
-## ❤️ Git status
- <a href="https://github.com/JangWooJin1/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangWooJin1" alt="Top Languages" />
-  </a>
