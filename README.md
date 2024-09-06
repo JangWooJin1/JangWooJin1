@@ -4,8 +4,8 @@
 <img src="https://github.com/user-attachments/assets/bb7a488a-47f5-429b-a89e-38bc9a48045c" alt="image" width="800" height="400">
 </div>
 
-### 나를 표현하는 단어 : 다 함께, 열정적으로 
-### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다
+'''나를 표현하는 단어 : 다 함께, 열정적으로 
+자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다'''
 
 <br>
 
