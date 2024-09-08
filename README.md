@@ -42,10 +42,5 @@ private static String 자주 듣는 말 = "책임감 있고, 항상 잘 챙겨�
 
 <br><br>
 
-### 🧑‍🤝‍🧑  I want to work with people who
-- 
-
-<br><br>
-
 ### ✉️ How to Contact
 [![Gmail Badge](https://img.shields.io/badge/-jangwoojin1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangwoojin1@gmail.com)](mailto:jangwoojin1@gmail.com)
