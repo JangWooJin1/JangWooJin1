@@ -1,11 +1,10 @@
 # 🌱 장우진
-## 같이 고민하고 같이 성장하는 백엔드 개발자입니다!
 <div align=center>
 <img src="https://github.com/user-attachments/assets/bb7a488a-47f5-429b-a89e-38bc9a48045c" alt="image" width="800" height="400">
 </div>
 
 ```java
-private static String 나를 표현하는 단어 = "다 함께, 열정적으로";
+private static String 나를 표현하는 단어 = "같이 고민하고, 함께 나아가는 개발자";
 private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 도와준다";
 ```
 
@@ -24,7 +23,7 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 
 <br><br>
   
-### 🌟 Additional Expertise
+### 📚 Additional Expertise
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
@@ -32,11 +31,6 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-008080?style=flat-square&logo=NLP&logoColor=white"/>
 </div>
-<br><br>
-
-### 📚 Experience
-- 
-
 
 <br><br>
 
@@ -44,15 +38,14 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 - MBTI: ESTJ
 - Major: Computer science
 - Hobby: Golf
-- Interests: Backend
 - Final Vocabulary: Patience
 
 <br><br>
 
-### 🧑‍🤝‍🧑 I want to collaborate with people like this ...
+### 🧑‍🤝‍🧑  I want to work with people who
 - 
 
 <br><br>
 
-### ✉️ 연락 방법
+### ✉️ How to Contact
 [![Gmail Badge](https://img.shields.io/badge/-jangwoojin1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangwoojin1@gmail.com)](mailto:jangwoojin1@gmail.com)
