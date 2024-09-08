@@ -38,7 +38,7 @@ private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 �
 - MBTI: ESTJ
 - Major: Computer science
 - Hobby: Golf
-- Final Vocabulary: Patience
+- Final Vocabulary: Together
 
 <br><br>
 
