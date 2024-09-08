@@ -5,7 +5,7 @@
 
 ```java
 private static String 나를 표현하는 단어 = "같이 고민하고, 함께 나아가는 개발자";
-private static String 자주 듣는 말 = "책임감 있다, 늘 친절하게 도와준다";
+private static String 자주 듣는 말 = "책임감 있고, 항상 잘 챙겨줘";
 ```
 
 <br>
