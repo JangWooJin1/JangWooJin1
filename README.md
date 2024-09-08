@@ -23,7 +23,7 @@ private static String 자주 듣는 말 = "책임감 있고, 항상 잘 챙겨�
 
 <br><br>
   
-### 📚 Additional Expertise
+### 📚 Additional Skill
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
