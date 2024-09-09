@@ -4,8 +4,8 @@
 </div>
 
 ```java
-private static String 나를 표현하는 단어 = "같이 고민하고, 함께 나아가는 개발자";
-private static String 자주 듣는 말 = "책임감 있고, 항상 잘 챙겨줘";
+private static String 나를 표현하는 단어 = "협업에 능통한 개발자. 모두가 팀원으로 뽑고싶은 사람.";
+private static String 자주 듣는 말 = "항상 캐리 고마워!";
 ```
 
 <br>
@@ -53,6 +53,14 @@ private static String 자주 듣는 말 = "책임감 있고, 항상 잘 챙겨�
 - Major: Computer science
 - Hobby: Golf
 - Final Vocabulary: Together
+
+### 같이의 가치. 함께의 줄거움
+
+- 여러번의 협업 경험을 통해 많은 사람들과 호흡을 맞춰오며 성장하고, 같이 학습하고자 하는 자세를 익혔습니다.
+- 그렇기에 여러 팀 프로젝트를 하면서 "캐리 고맙다", "다음에도 또 하자" 라는 리뷰를 들었습니다.
+- 함께하기에 최악의 동료는 무능력자가 아닌, 감정적이고 본인의 의견만을 앞세우는 사람이라는것을 압니다.
+- 모두가 최선의 결과를 낼 수 있게 도와주는 사람. 그 사람이 저에용
+
 
 <br><br>
 
