@@ -66,3 +66,12 @@ private static String 자주 듣는 말 = "항상 캐리 고마워!";
 
 ### ✉️ How to Contact
 [![Gmail Badge](https://img.shields.io/badge/-jangwoojin1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangwoojin1@gmail.com)](mailto:jangwoojin1@gmail.com)
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JangWooJin1"
+  width="600"
+  height="300"
+/>
+</a>
