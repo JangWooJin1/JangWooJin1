@@ -71,7 +71,7 @@ private static String 자주 듣는 말 = "항상 캐리 고마워!";
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/JangWooJin1"
-  width="600"
+  width="100%"
   height="300"
 />
 </a>
