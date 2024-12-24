@@ -18,7 +18,6 @@ private static String 자주 듣는 말 = "항상 캐리 고마워!";
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-6FCE45?style=flat-square&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
 <br>
@@ -34,6 +33,15 @@ private static String 자주 듣는 말 = "항상 캐리 고마워!";
 <img src="https://img.shields.io/badge/NLP-008080?style=flat-square&logo=NLP&logoColor=white"/>
 </div>
 
+
+<br>
+
+###  🤝 Collaboration Tools
+<div>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
 
 <br>
 
